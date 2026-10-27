@@ -1,5 +1,7 @@
 # homebrew-tap
 
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/ipsofacto-io/homebrew-tap/badge)](https://scorecard.dev/viewer/?uri=github.com/ipsofacto-io/homebrew-tap)
+
 Homebrew formulas for [ipso](https://github.com/ipsofacto-io/ipso).
 
 ```sh
